@@ -83,7 +83,7 @@
 
 
 
-            #region დავალება 3 - ასაკის განსაზღვრა (TryParse)
+            #region დავალება 3 - ასაკის განსაზღვრა
 
             Console.Write("Enter age: ");
 
