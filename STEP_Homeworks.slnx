@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="hw_1/hw_1.csproj" />
+  <Project Path="hw_10/hw_10.csproj" Id="310fed5e-8754-4ea0-9ebc-327cbac7bc73" />
   <Project Path="hw_3/hw_3.csproj" Id="64033549-004a-4049-89be-43f6730a88f5" />
   <Project Path="hw_4/hw_4.csproj" Id="3a866f3f-7711-4cb2-89c9-83bdee8d36c4" />
   <Project Path="hw_5/hw_5.csproj" Id="c64701e2-af33-4a4e-999b-ed556669a907" />
