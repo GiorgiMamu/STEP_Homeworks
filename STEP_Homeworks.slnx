@@ -16,4 +16,5 @@
   <Project Path="lec12_classwork/lec12_classwork.csproj" Id="7adce40b-c64f-4cd9-865a-c15be743ace9" />
   <Project Path="lec5_classwork/lec5_classwork.csproj" Id="c46c5acf-4f8b-4329-abfb-155091804121" />
   <Project Path="lec8_classwork/lec8_classwork.csproj" Id="89e4d331-d143-4bc7-9690-86b0f987b0dd" />
+  <Project Path="thread_classwork/thread_classwork.csproj" Id="784c79bc-922b-42d2-b255-f6a294f6ae90" />
 </Solution>
